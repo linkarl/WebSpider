@@ -1,0 +1,14 @@
+package com.github.linkarl.util;
+
+/**
+ * 输出 pdf excel txt 图片 等等
+ */
+public class OutputUtil {
+	public static void outputPdf(String data) {
+
+	}
+	//前提是data已经是excel的了
+	public static void outputExcel(String data) {
+
+	}
+}

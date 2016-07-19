@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="lib/commons-cli-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/fluent-hc-4.5.2.jar"/>
+	<classpathentry kind="lib" path="lib/httpclient-4.5.2.jar" sourcepath="source/httpcomponents-client-4.5.2-src.zip"/>
+	<classpathentry kind="lib" path="lib/httpclient-cache-4.5.2.jar"/>
+	<classpathentry kind="lib" path="lib/httpclient-win-4.5.2.jar"/>
+	<classpathentry kind="lib" path="lib/httpcore-ab-4.4.5.jar"/>
+	<classpathentry kind="lib" path="lib/httpcore-nio-4.4.5.jar"/>
+	<classpathentry kind="lib" path="lib/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="lib/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/jsoup-1.9.2.jar" sourcepath="source/jsoup-1.9.2-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/WebSpider/source/jsoup-1.9.2-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/httpcore-4.4.4.jar" sourcepath="source/httpcomponents-core-4.4.5-src.zip"/>
+	<classpathentry kind="lib" path="lib/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="lib/commons-io-2.5.jar" sourcepath="source/commons-io-2.5-src.zip"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

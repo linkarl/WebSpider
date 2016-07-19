@@ -1,0 +1,13 @@
+Xurl=http://hd2.hainu.edu.cn/HomeN/mhlogin.asp?a=1
+a=1?ac=ac
+crc=c9fe8089b578d66a1330c4a90a713e30
+email=446035005@qq.com
+jmq=
+leixing=
+ps=a123456
+sj=20160717171201
+webxingming=林晓宝
+webyonghuleixing=学生
+xueyuan=信息科学技术学院
+yonghu=20131602310027
+zhuanye=

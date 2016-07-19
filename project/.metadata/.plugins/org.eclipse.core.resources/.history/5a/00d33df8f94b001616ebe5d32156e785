@@ -1,0 +1,9 @@
+package com.github.linkarl.util;
+
+public class HeaderUtil {
+	//复制下来的格式如 Host: www.baidu.com
+	public static String resolve(String headers) {
+
+		return headers;
+	}
+}

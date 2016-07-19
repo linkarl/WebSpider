@@ -1,0 +1,18 @@
+package com.github.linkarl.proxy;
+
+import java.io.File;
+
+import org.apache.commons.io.FileUtils;
+
+public class ProxyPool {
+	private final static String preFix = "proxy/";
+	
+	public ProxyPool() {
+		super();
+		init();
+	}
+
+	private void init() {
+		FileUtils.readFileToString(new File("test.txt"), encoding)
+	}
+}

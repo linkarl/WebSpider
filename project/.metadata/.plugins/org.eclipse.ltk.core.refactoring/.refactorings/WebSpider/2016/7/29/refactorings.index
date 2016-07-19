@@ -1,0 +1,7 @@
+1468671026456	Delete element
+1468671159373	Move compilation units
+1468671203925	Rename package 'main'
+1468671215455	Rename package 'util'
+1468673643792	Extract local variable 'cookies'
+1468674122944	Extract local variable 'parse'
+1468674427916	Rename method 'getContent'

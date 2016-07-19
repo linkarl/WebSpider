@@ -1,0 +1,6 @@
+ASPSESSIONIDASDQRBTS=HGJJDFKBHAJCLGIFDIGHINFD; path=/; domain=hd2.hainu.edu.cn
+ASPSESSIONIDCQASRAST=JKLFKFKBGCEHOKKNJBEHPENI; path=/; domain=check.hainu.edu.cn
+CNZZDATA4624148=cnzz_eid%3D1772348709-1468210339-null%26ntime%3D1468743111; expires=Sun, 15 Jan 2017 09:15:16 GMT; path=/; domain=www.hainu.edu.cn
+_gscbrs_116053037=1; path=/; domain=.hainu.edu.cn
+_gscs_116053037=687469163fhvh571|pv:1; expires=Sun, 17 Jul 2016 09:45:16 GMT; path=/; domain=.hainu.edu.cn
+_gscu_116053037=687469166q01rd71; expires=Tue, 17 Jul 2018 09:15:16 GMT; path=/; domain=.hainu.edu.cn

@@ -1,0 +1,9 @@
+package com.github.linkarl.util;
+
+public class HeaderUtil {
+	public static String resolve(String headers){
+		
+		return headers;
+	}
+}
+
